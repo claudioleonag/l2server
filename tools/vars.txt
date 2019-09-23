@@ -1,0 +1,21 @@
+@echo off 
+set config_version=2 
+set cmode=c
+set safe_mode=1 
+set mysqlPath=C:\Program Files\MariaDB 10.2\bin\mysql.exe
+set mysqlBinPath=C:\Program Files\MariaDB 10.2\bin
+set mysqldumpPath=C:\Program Files\MariaDB 10.2\bin\mysqldump.exe
+set lsuser=root
+set lspass=n5a1p7R9
+set lsdb=naph5
+set lshost=localhost 
+set cbuser=
+set cbpass=
+set cbdb=
+set cbhost= 
+set gsuser=root
+set gspass=n5a1p7R9
+set gsdb=naph5
+set gshost=localhost
+set logdir=.
+set backup=.

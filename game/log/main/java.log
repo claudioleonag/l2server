@@ -1,0 +1,28 @@
+[06.06.18 16:18:30] INFO: Network Config: ipconfig.xml doesn't exists using automatic configuration...
+[06.06.18 16:18:31] INFO: Network Config: Adding new subnet: 127.0.0.0/8 address: 127.0.0.1
+[06.06.18 16:18:31] INFO: Network Config: Adding new subnet: 192.168.50.0/24 address: 192.168.50.65
+[06.06.18 16:18:31] INFO: Network Config: Adding new subnet: 0.0.0.0/0 address: 201.0.120.104
+[06.06.18 16:18:31] INFO: Loaded 6 Filter Words.
+[06.06.18 16:18:31] INFO: Sunrise Configs Loaded...
+[06.06.18 16:18:31] INFO: Updated characters online status.
+[06.06.18 16:18:31] INFO: Cleaned up invalid Weddings.
+[06.06.18 16:18:31] INFO: Cleaned 0 elements from database in 0 s
+[06.06.18 16:18:31] INFO: Cleaned 2 expired timestamps from database.
+[06.06.18 16:18:31] INFO: BitSetIDFactory: 102912 id's available.
+[06.06.18 16:18:31] INFO: -------------------------------------------------=[ Engines ]
+[06.06.18 16:18:31] INFO: Script Engine: java 1.8 - Language: java - Language Version: 1.8
+[06.06.18 16:18:35] INFO: Script Engine: jython 2.2.1 - Language: python - Language Version: 2.2.1
+[06.06.18 16:18:35] INFO: Script Engine: Oracle Nashorn 1.8.0_171 - Language: ECMAScript - Language Version: ECMA - 262 Edition 5.1
+[06.06.18 16:18:36] INFO: -------------------------------------------------=[ Geodata ]
+[06.06.18 16:18:36] INFO: ---------------------------------------------------=[ World ]
+[06.06.18 16:18:36] INFO: GameTimeController: Started.
+[06.06.18 16:18:36] INFO: InstanceManager: Multiverse Instance created.
+[06.06.18 16:18:36] INFO: InstanceManager: Universe Instance created.
+[06.06.18 16:18:36] INFO: InstanceManager: Loaded 160 instance names.
+[06.06.18 16:18:36] INFO: L2World: (128 by 136) World Region Grid set up.
+[06.06.18 16:18:36] INFO: MapRegionManager: Loaded 57 map regions.
+[06.06.18 16:18:36] INFO: GlobalVariablesManager: Loaded 5 variables.
+[06.06.18 16:18:36] INFO: ----------------------------------------------------=[ Data ]
+[06.06.18 16:18:36] INFO: CategoryData: Loaded 124 Categories.
+[06.06.18 16:18:36] INFO: SecondaryAuthData: Loaded 328 forbidden passwords.
+[06.06.18 16:18:36] INFO: -------------------------------------------------=[ Effects ]

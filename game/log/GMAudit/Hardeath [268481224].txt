@@ -1,0 +1,46 @@
+06/06/2018 15:23:44>Hardeath [268481224]>Loot(id: 57 count: 8 name: Adena objId: 268481265)>Gremlin>L2Object referencing this action is: Gremlin
+06/06/2018 15:23:49>Hardeath [268481224]>Loot(id: 57 count: 8 name: Adena objId: 268481267)>Gremlin>L2Object referencing this action is: Gremlin
+06/06/2018 15:23:51>Hardeath [268481224]>Pickup(id: 57 name: Adena)>Gremlin>L2Object referencing this action is: no-reference
+06/06/2018 15:23:58>Hardeath [268481224]>Loot(id: 57 count: 7 name: Adena objId: 268481268)>Gremlin>L2Object referencing this action is: Gremlin
+06/06/2018 15:24:00>Hardeath [268481224]>Pickup(id: 57 objId: 268481265 name: Adena count: 7)>Gremlin>L2Object referencing this action is: no-reference
+06/06/2018 15:24:00>Hardeath [268481224]>Pickup(id: 57 count: 0 itemObjId: 268481268)>Gremlin>L2Object referencing this action is: no-reference
+06/06/2018 15:24:11>Hardeath [268481224]>Loot(id: 57 count: 8 name: Adena objId: 268481271)>Gremlin>L2Object referencing this action is: Gremlin
+06/06/2018 15:24:13>Hardeath [268481224]>Pickup(id: 57 objId: 268481265 name: Adena count: 8)>Gremlin>L2Object referencing this action is: no-reference
+06/06/2018 15:24:13>Hardeath [268481224]>Pickup(id: 57 count: 0 itemObjId: 268481271)>Gremlin>L2Object referencing this action is: no-reference
+06/06/2018 15:24:27>Hardeath [268481224]>set_level 85>Hardeath>
+06/06/2018 15:24:36>Hardeath [268481224]>admin>Hardeath>
+06/06/2018 15:24:37>Hardeath [268481224]>admin_move_to>Hardeath>
+06/06/2018 15:24:38>Hardeath [268481224]>admin_html teleports/TownAreas.htm>Hardeath>
+06/06/2018 15:24:39>Hardeath [268481224]>admin_html teleports/TownAreas/giran.htm>Hardeath>
+06/06/2018 15:24:40>Hardeath [268481224]>admin_move_to 82698 148638 -3473>Hardeath>
+06/06/2018 15:25:09>Hardeath [268481224]>Extract(id: 20638 count: 0 itemObjId: 268481227)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:09>Hardeath [268481224]>Extract(id: 20415 count: 1 name: Afro Hair - Big Head, Firework - 7-day limited period objId: 268481284)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:09>Hardeath [268481224]>Extract(id: 21091 count: 1 name: Rune of Experience Points 50% 7-Day Pack objId: 268481285)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:09>Hardeath [268481224]>Extract(id: 21092 count: 1 name: Rune of SP 50% 7-Day Pack objId: 268481286)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:12>Hardeath [268481224]>Extract(id: 20637 count: 0 itemObjId: 268481226)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:12>Hardeath [268481224]>Extract(id: 20649 count: 1 name: Common Item - Ghost Staff objId: 268481287)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:12>Hardeath [268481224]>Extract(id: 20650 count: 1 name: Common Item - Mithril Tunic objId: 268481288)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:12>Hardeath [268481224]>Extract(id: 20651 count: 1 name: Common Item - Mithril Stockings objId: 268481289)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:12>Hardeath [268481224]>Extract(id: 20652 count: 1 name: Common Item - Salamander Skin Boots objId: 268481290)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:12>Hardeath [268481224]>Extract(id: 20653 count: 1 name: Common Item - Ogre Power Gauntlet objId: 268481291)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:12>Hardeath [268481224]>Extract(id: 20645 count: 1 name: Common Item - Plate Helmet objId: 268481292)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:14>Hardeath [268481224]>Extract(id: 20635 count: 0 itemObjId: 268481225)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:14>Hardeath [268481224]>Extract(id: 8973 count: 1 name: Shadow Item: Falchion objId: 268481293)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:14>Hardeath [268481224]>Extract(id: 8977 count: 1 name: Shadow Item: Mage Staff objId: 268481294)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:14>Hardeath [268481224]>Extract(id: 9030 count: 1 name: Shadow Item: Bronze Breastplate objId: 268481295)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:14>Hardeath [268481224]>Extract(id: 9031 count: 1 name: Shadow Item: Bronze Gaiters objId: 268481296)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:14>Hardeath [268481224]>Extract(id: 9032 count: 1 name: Shadow Item: Hard Leather Shirt objId: 268481297)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:14>Hardeath [268481224]>Extract(id: 9033 count: 1 name: Shadow Item: Hard Leather Gaiters objId: 268481298)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:14>Hardeath [268481224]>Extract(id: 9034 count: 1 name: Shadow Item: Tunic of Magic objId: 268481299)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:14>Hardeath [268481224]>Extract(id: 9035 count: 1 name: Shadow Item: Stockings of Magic objId: 268481300)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:14>Hardeath [268481224]>Extract(id: 21093 count: 3 name: Sweet Fruit Cocktail objId: 268481301)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:25:15>Hardeath [268481224]>Extract(id: 21094 count: 3 name: Fresh Fruit Cocktail objId: 268481302)>no-target>L2Object referencing this action is: Hardeath
+06/06/2018 15:26:58>Hardeath [268481224]>Consume(id: 21093 objId: 268481301 name: Sweet Fruit Cocktail count: -1)>Hardeath>L2Object referencing this action is: Hardeath
+06/06/2018 15:27:02>Hardeath [268481224]>Consume(id: 21094 objId: 268481302 name: Fresh Fruit Cocktail count: -1)>Hardeath>L2Object referencing this action is: Hardeath
+06/06/2018 15:34:39>Hardeath [268481224]>set_level 85>Hardeath>
+06/06/2018 15:36:17>Hardeath [268481224]>set_level 85>Hardeath>
+06/06/2018 15:37:35>Hardeath [268481224]>Extract(id: 21092 count: 0 itemObjId: 268481286)>Hardeath>L2Object referencing this action is: Hardeath
+06/06/2018 15:37:35>Hardeath [268481224]>Extract(id: 20346 count: 1 name: Rune of SP 50% - 7-day limited period objId: 268481410)>Hardeath>L2Object referencing this action is: Hardeath
+06/06/2018 15:37:36>Hardeath [268481224]>Extract(id: 21091 count: 0 itemObjId: 268481285)>Hardeath>L2Object referencing this action is: Hardeath
+06/06/2018 15:37:36>Hardeath [268481224]>Extract(id: 20340 count: 1 name: Rune of Experience Points 50% - 7-day limited period objId: 268481411)>Hardeath>L2Object referencing this action is: Hardeath
+06/06/2018 15:40:46>Hardeath [268481224]>set_level 85>Hardeath>
