@@ -394,7 +394,7 @@
 	<skill id="822" levels="3" name="Repair Golem">
 		<!-- Confirmed CT2.5 -->
 		<table name="#aggroPoints"> 362 481 562 </table>
-		<table name="#amount"> 8 12 15 </table>
+		<table name="#amount"> 8 12 25 </table>
 		<table name="#magicLvl"> 40 49 55 </table>
 		<table name="#mpConsume"> 61 78 88 </table>
 		<set name="aggroPoints" val="#aggroPoints" />

@@ -754,7 +754,7 @@
 		<table name="#npcIds"> 14663 14664 14665 14666 14667 14668 14669 14670 14671 </table>
 		<table name="#ench1expPenalty"> 0.14 0.13 0.12 0.11 0.1 0.09 0.08 0.07 0.06 0.05 0.04 0.03 0.02 0.01 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 </table>
 		<table name="#enchNpcId"> 14672 14673 14674 14675 14676 14677 14678 14679 14680 14681 14682 14683 14684 14685 14686 14687 14688 14689 14690 14691 14692 14693 14694 14695 14696 14697 14698 14699 14700 14701 </table>
-		<set name="hitTime" val="15000" />
+		<set name="hitTime" val="8000" />
 		<set name="icon" val="icon.skill0025" />
 		<set name="itemConsumeId" val="#itemConsumeId" />
 		<set name="itemConsumeCount" val="#itemConsumeCount" />
@@ -764,7 +764,7 @@
 		<set name="skillType" val="SUMMON" />
 		<set name="summonTimeLostActive" val="1000" />
 		<set name="summonTimeLostIdle" val="500" />
-		<set name="summonTotalLifeTime" val="1200000" />
+		<set name="summonTotalLifeTime" val="9999999" />
 		<set name="targetType" val="SELF" />
 		<!-- Summon-specific -->
 		<set name="itemConsumeCountOT" val="#itemConsumeCountOT" />
