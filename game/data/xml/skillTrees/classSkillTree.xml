@@ -2,7 +2,7 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
 	<!-- Human Fighter -->
 	<skillTree type="classSkillTree" classId="0">
-		<!-- Confirmed CT2.5 and Updated to H5 -->
+		<!-- Confirmed CT2.5 and Updated to H5 RIC GAY-->
 		<skill skillName="Lucky" skillId="194" skillLvl="1" getLevel="1" autoGet="true" />
 		<skill skillName="Common Craft" skillId="1322" skillLvl="1" getLevel="1" autoGet="true" />
 		<skill skillName="Expertise D" skillId="239" skillLvl="1" getLevel="20" autoGet="true" />
