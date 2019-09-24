@@ -1339,7 +1339,7 @@
 		<table name="#ench2MpConsume"> 70 69 68 67 66 64 63 62 61 60 58 57 56 55 54 53 51 50 49 48 47 45 44 43 42 41 40 38 37 36 </table>
 		<table name="#ench2Power"> 2432 2454 2476 2497 2519 2541 2563 2584 2606 2628 2650 2671 2693 2715 2737 2758 2780 2802 2823 2845 2865 2889 2910 2932 2954 2976 2997 3019 3041 3063 </table>
 		<table name="#enchElementPower"> 1 3 5 6 8 10 11 13 15 16 18 20 21 23 25 26 28 30 31 33 35 36 38 40 41 43 45 46 48 50 </table>
-		<table name="#enchMagicLvl"> 76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85 </table>
+		<table name="#enchMagicLvl"> 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 85 </table>
 		<set name="abnormalLvl" val="1" />
 		<set name="abnormalTime" val="9" />
 		<set name="abnormalType" val="stun" />

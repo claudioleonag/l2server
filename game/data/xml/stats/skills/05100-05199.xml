@@ -449,8 +449,8 @@
 		<set name="targetType" val="AREA_FRIENDLY" />
 		<for>
 			<effect name="Buff" abnormalTime="7" val="0" abnormalLvl="1" abnormalType="combination">
-				<mul stat="regHp" val="1.4" />
-				<mul stat="regCp" val="1.4" />
+				<mul stat="regHp" val="2.0" />
+				<mul stat="regCp" val="2.0" />
 			</effect>
 		</for>
 	</skill>
