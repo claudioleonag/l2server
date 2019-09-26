@@ -421,7 +421,7 @@
 		<table name="#pAtkSpd"> 1.03 1.06 1.09 </table>
 		<set name="abnormalLvl" val="4" />
 		<set name="abnormalTime" val="1200" />
-		<set name="abnormalType" val="pa_up" />
+		<set name="abnormalType" val="golem_up" />
 		<set name="aggroPoints" val="#aggroPoints" />
 		<set name="castRange" val="40" />
 		<set name="coolTime" val="500" />
@@ -450,7 +450,7 @@
 		<table name="#pDef"> 1.08 1.12 1.15 </table>
 		<set name="abnormalLvl" val="4" />
 		<set name="abnormalTime" val="1200" />
-		<set name="abnormalType" val="pd_up" />
+		<set name="abnormalType" val="golem_hp" />
 		<set name="aggroPoints" val="#aggroPoints" />
 		<set name="castRange" val="40" />
 		<set name="coolTime" val="500" />
