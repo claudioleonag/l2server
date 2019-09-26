@@ -31,7 +31,7 @@
 		</for>
 	</skill>
 	<skill id="1501" levels="1" name="Improved Condition">
-		<!-- Confirmed CT2.5 -->
+		<!-- Confirmed CT2.5  teste commit-->
 		<set name="abnormalLvl" val="1" />
 		<set name="abnormalTime" val="2400" />
 		<set name="abnormalType" val="improve_hp_mp_up" />
