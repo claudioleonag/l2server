@@ -1470,7 +1470,7 @@
 		</cond>
 		<for>
 			<effect name="RemoveTarget" noicon="1" val="0">
-				<param chance="100" />
+				<param chance="-1" />
 			</effect>
 		</for>
 	</skill>
