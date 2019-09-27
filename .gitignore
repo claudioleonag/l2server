@@ -1,0 +1,17 @@
+*.log
+*.txt
+*.pkc
+*.log.1
+*.log 
+game/log/
+game/log/main/errors.log
+game/log/java1.log
+login/log/
+game/log/main/game.log
+game/log/EventEngine/EventEngine_detailed_1.log
+game/log/game/_all.txt
+game/log/game/damage_mdam.txt
+game/log/game/damage_pdam.txt
+game/log/main/errors.log
+game/log/main/java.log
+game/log/main/warnings.log
