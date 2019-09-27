@@ -48,12 +48,12 @@ if NOT %upgrade_mode% == 2 (
 set fresh_setup=1
 set mysqlBinPath=C:\Program Files\MariaDB 10.2\bin 
 set lsuser=root
-set lspass=
-set lsdb=l2jls
+set lspass=SUASENHA
+set lsdb=NOMEDB
 set lshost=localhost
 set gsuser=root
-set gspass=
-set gsdb=l2jgs
+set gspass=SUASENHA
+set gsdb=NOMEDB
 set gshost=localhost
 set cmode=c
 set backup=.
