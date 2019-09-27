@@ -1,0 +1,7 @@
+*.log
+*.txt
+*.pkc
+*.log.1
+*.log 
+game/log/
+
